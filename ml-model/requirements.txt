@@ -1,0 +1,12 @@
+# Core ML libraries
+tensorflow==2.16.1
+scikit-learn==1.4.2
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.4
+
+# Data source
+yfinance==0.2.37
+
+# Optional (for saving/loading models or experimentation)
+joblib==1.4.2

@@ -1,0 +1,15 @@
+# Node
+node_modules/
+.env
+
+# Python
+__pycache__/
+*.pyc
+ml-model/venv/
+ml-model/model/
+
+# React Native
+client/.expo/
+client/android/
+client/ios/
+client/web-build/
